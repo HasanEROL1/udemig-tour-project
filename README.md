@@ -17,7 +17,7 @@ Modern, şık ve kullanıcı dostu bir tatil/tur acentesi arayüzü tasarımı. 
 * **FontAwesome:** Sosyal medya ve arayüz ikonları için.
 
 ## 📸 Önizleme
-Buraya projenin bir GIF'ini veya ekran görüntüsünü ekleyebilirsin:
+
 
 ![Udemig Tour Preview](udemig-tour.gif)
 
